@@ -7,6 +7,7 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 100px 2fr 2fr;
+    gap:50px;
 }
 button{
     background-color: #FAB12F;
@@ -14,7 +15,7 @@ button{
     border-style: solid;
     border-width: 2px;
     font-family: "Gemunu Libre", sans-serif;
-    font-size:1vw !important;
+    font-size:1.5vw !important;
     height:7vh !important;
     min-width: 7vw !important;
     cursor: pointer;
