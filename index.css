@@ -36,6 +36,7 @@ button{
 }
 #link{
     width:20vw !important;
+    height: 75pt;
     display:flex;
     justify-content: space-around;
     background-color: #FF7066;
